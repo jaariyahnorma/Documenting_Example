@@ -1,0 +1,27 @@
+Dataset Name,Superstore Sales,,
+,,,
+Worksheet,Rows,Column,Description
+Transaction,9994,Order ID,ID pemesanan
+,,Customer ID,ID pelanggan
+,,Postal Code,Kode pos
+,,Product ID,ID produk
+,,Sales,Total penjualan
+,,Quantity,Kuantias barang
+,,Discount,Diskon
+,,Profit,Keuntungan
+Ref_Product,1862,Product ID,ID produk
+,,Category,Kategori produk
+,,Sub-Category,Subkategori produk
+,,Product Name,Nama produk
+Ref_Region,632,Country/Region,Negara
+,,City,Kota
+,,State,Negara bagian
+,,Postal Code,Kode pos
+,,Region,Wilayah
+Ref_Customer,793,Customer ID,ID pelanggan
+,,Customer Name,Nama pelanggan
+,,Segment,Segmen pelanggan
+Ref_Order,5009,Order ID,ID pemesanan
+,,Order Date,Tanggal pemesanan
+,,Ship Date,Tanggal pengiriman
+,,Ship Mode,Metode pengiriman
