@@ -1,6 +1,8 @@
 # E-Commerce Sales Analysis
+---
 
 ## Table of Contents
+---
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
@@ -14,12 +16,14 @@
 - [Limitations](#limitations)
 
 ### Project Overview
+---
 
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to indetify trends, make data-drives recommendations, and gain a deeper understanding of the company's performance.
 
 ![bar3](https://github.com/jaariyahnorma/Documenting_Example/assets/173895980/bdfb21f2-814d-421d-8f70-3f416311851a)
 
 ### Data Sources
+---
 
 Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
 
@@ -79,11 +83,17 @@ I had to remove all zero values from budget and revenue columns because they wou
 2. [Stack Overflow](https://stack.com)
 
 😄 
+
 💻
 
 |Headings1|Headings2|
-|.........|.........|
+|---------|---------|
 |Content|Content2|
 |Phyton|SQL|
 
+`column_1`
+
+**bold**
+
+*italic*
 
