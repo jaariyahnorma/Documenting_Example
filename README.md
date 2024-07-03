@@ -11,9 +11,30 @@ Sales Data: The primary dataset used for this analysis is the "sales_data.csv" f
 ### Tools
 
 - Excel - Data Cleaning
-- [Download_here](https://microsoft.com)
+  - [Download_here](https://microsoft.com)
 - SQL Server - Data Analysis
 - PowerBI - Creating Reports
 
+### Data Cleaning/Preparation
+
+In the initial data preparation pahse, we perfomed the following tasks:
+1. Data loading and inspection,
+2. Handling missing values,
+3. Data cleaning and formatting.
+
+### Exploratoty Data Analysis
+
+EDA involved exploring the sales data to answer key questions, such as:
+
+- What is the overall sales trend?
+- Which products are top sellers?
+- What are the peak sales periods?
+
+### Data Analysis
+
+Include some interesting code/features worked with
+
+```sql
+Selec
   
 
