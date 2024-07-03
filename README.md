@@ -17,11 +17,7 @@
 
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to indetify trends, make data-drives recommendations, and gain a deeper understanding of the company's performance.
 
-![Dashboard](bar3.jpg)
-
 ![bar3](https://github.com/jaariyahnorma/Documenting_Example/assets/173895980/bdfb21f2-814d-421d-8f70-3f416311851a)
-
-
 
 ### Data Sources
 
