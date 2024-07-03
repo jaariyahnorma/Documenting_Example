@@ -35,6 +35,15 @@ EDA involved exploring the sales data to answer key questions, such as:
 Include some interesting code/features worked with
 
 ```sql
-Selec
+SELECT * FROM table1
+WHERE cond = 2;
+```
+
+### Results/Findings
+
+The analysis results are summarized as follows:
+The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
+Product Category A is the best performing category in terms of sales and revenue.
+Customer segments with high lifetime value 
   
 
