@@ -78,3 +78,12 @@ I had to remove all zero values from budget and revenue columns because they wou
 1. SQL for Bissiness by werty.
 2. [Stack Overflow](https://stack.com)
 
+😄 
+💻
+
+|Headings1|Headings2|
+|.........|.........|
+|Content|Content2|
+|Phyton|SQL|
+
+
