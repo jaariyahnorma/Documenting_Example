@@ -15,6 +15,7 @@ Sales Data: The primary dataset used for this analysis is the "sales_data.csv" f
 - SQL Server - Data Analysis
 - PowerBI - Creating Reports
 
+
 ### Data Cleaning/Preparation
 
 In the initial data preparation pahse, we perfomed the following tasks:
@@ -39,11 +40,12 @@ SELECT * FROM table1
 WHERE cond = 2;
 ```
 
+
 ### Results/Findings
 
 The analysis results are summarized as follows:
-The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
-Product Category A is the best performing category in terms of sales and revenue.
+1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
+2. Product Category A is the best performing category in terms of sales and revenue.
 Customer segments with high lifetime value 
   
 
