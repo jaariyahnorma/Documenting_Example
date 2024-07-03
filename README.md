@@ -40,12 +40,26 @@ SELECT * FROM table1
 WHERE cond = 2;
 ```
 
-
 ### Results/Findings
 
 The analysis results are summarized as follows:
 1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
 2. Product Category A is the best performing category in terms of sales and revenue.
-Customer segments with high lifetime value 
-  
+3. Customer segments with high lifetime value (LIV) should be targeted for marketing efforts.
+
+### Recommendations
+
+Based on the analysis, we recommend the following actions:
+- Invest in marketing and promotions during peak sales seasons to maximize revenue,
+- Focus on expanding and promoting products in Category A,
+- Implement a customer segmentation strategy to target high-LIV customers effectively.
+
+### Limitations
+
+I had to remove all zero values from budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. There are still a few outliers even after the omissions, but even then we can still see that there is a position correlation between both budget and number of votes with revenue.
+
+### References
+
+1. SQL for Bissiness by werty.
+2. [Stack Overflow](https://stack.com)
 
